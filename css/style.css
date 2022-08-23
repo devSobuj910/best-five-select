@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Manrope:wght@200;300;400;500;600&display=swap');
+
+body{
+    font-family: 'Manrope', sans-serif;
+
+
+    background-color: red !important
+}
+
+.title{
+    font-family: 'Berkshire Swash', cursive;
+    color: #FF5E19;
+    font-weight: 400;
+    font-size: 76px;
+}
+.right-shap{
+    position: relative;
+}
+
+
+main{
+    background-color: #434343;
+}
+
+.democlass {
+    color: red;
+  }
